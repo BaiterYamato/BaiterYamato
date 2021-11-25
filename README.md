@@ -1,4 +1,4 @@
-### Hello there 👋👨🏼 / General Kenobi 👺  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">👨🏼 / General Kenobi 👺  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -63,12 +63,12 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
+###📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aBaiterYamato&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiterYamato&count_private=true&layout=compact&theme=white&hide_border=true"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiterYamato&count_private=true&layout=compact&theme=gotham&hide_border=false" />
   
   <!--
 **BaiterYamato/BaiterYamato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
