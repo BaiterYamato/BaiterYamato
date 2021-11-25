@@ -39,17 +39,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-HTML         3 hrs 31 mins   ███████████▒░░░░░░░░░░░░░   44.84 % 
-JavaScript   2 hrs 9 mins    ███████░░░░░░░░░░░░░░░░░░   27.41 % 
-TypeScript   1 hr 14 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-JSX          48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-```
-<!--END_SECTION:waka-->
-
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
@@ -63,7 +52,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <!-- TODO-IST:END -->
 
 
-### my github stats 📈
+### Github Stats 📈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BaiterYamato&show_icons=true&theme=dracula" alt="abhisheknaiidu" />
 
