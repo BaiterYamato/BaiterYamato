@@ -65,10 +65,10 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ###📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aBaiterYamato&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BaiterYamato&show_icons=true&theme=dracula" alt="abhisheknaiidu" />
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiterYamato&count_private=true&layout=compact&theme=gotham&hide_border=false" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiterYamato&count_private=true&layout=compact&theme=dracula&hide_border=false" />
   
   <!--
 **BaiterYamato/BaiterYamato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
