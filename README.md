@@ -42,8 +42,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-<p></p>
-<p></p>
+<br />
+<br />
+
 <h1 align="center">Github Stats 📈</h1>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BaiterYamato&show_icons=true&theme=dracula" alt="abhisheknaiidu" />
