@@ -57,12 +57,11 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BaiterYamato&theme=dracula&layout=compact" />
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="rzRwqq" data-user="mibsbalsante" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/mibsbalsante/pen/rzRwqq">
+<iframe height="300" style="width: 100%;" scrolling="no" title="Kyubey [in progress]" src="https://codepen.io/mibsbalsante/embed/rzRwqq?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/mibsbalsante/pen/rzRwqq">
   Kyubey [in progress]</a> by Mibs (<a href="https://codepen.io/mibsbalsante">@mibsbalsante</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>  
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
   
   <!--
 **BaiterYamato/BaiterYamato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
