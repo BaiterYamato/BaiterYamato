@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Mari's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaiterYamato&count_private=true&layout=compact&theme=white&hide_border=true)](https://github.com/BaiterYamato?tab=repositories)
+
 <!--
 **BaiterYamato/BaiterYamato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
