@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello there 👋👨🏼 / General Kenobi 👺  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -70,8 +68,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
-[![Mari's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaiterYamato&count_private=true&layout=compact&theme=white&hide_border=true)](https://github.com/BaiterYamato?tab=repositories)
-  
+<p align="center"> (https://github-readme-stats.vercel.app/api/top-langs/?username=BaiterYamato&count_private=true&layout=compact&theme=white&hide_border=true)](https://github.com/BaiterYamato?tab=repositories)   
 <!--
 **BaiterYamato/BaiterYamato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
