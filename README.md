@@ -68,7 +68,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
-<p align="center"> (https://github-readme-stats.vercel.app/api/top-langs/?username=BaiterYamato&count_private=true&layout=compact&theme=white&hide_border=true)](https://github.com/BaiterYamato?tab=repositories)   
+<p align="center"> <img src=(https://github-readme-stats.vercel.app/api/top-langs/?username=BaiterYamato&count_private=true&layout=compact&theme=white&hide_border=true)](https://github.com/BaiterYamato?tab=repositories)>   
 <!--
 **BaiterYamato/BaiterYamato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
