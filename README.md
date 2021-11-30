@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/leolopesds1999/">
   <img align="left" alt="Baiter's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+<a href="https://open.spotify.com/user/22mxij6l5sdwg2ooquwvuwyfa">
   <img align="left" alt="Baiter's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
