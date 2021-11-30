@@ -21,7 +21,7 @@ hi, i'm Leonardo Lopes aka Baiter, a data analyst who doesn't like to talk, so I
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 any freelance work? do reach, [email](mailto:leolopesds1999@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
@@ -36,10 +36,11 @@ hi, i'm Leonardo Lopes aka Baiter, a data analyst who doesn't like to talk, so I
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+<!--
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+-->
 <br />
 <br />
 <br />
@@ -54,12 +55,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiterYamato&layout=compact&count_private=true&card_width=450&theme=dracula&hide_border=false" />
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BaiterYamato&theme=dracula&layout=compact" />
-
-<iframe height="300" style="width: 100%;" scrolling="no" title="Kyubey [in progress]" src="https://codepen.io/mibsbalsante/embed/rzRwqq?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/mibsbalsante/pen/rzRwqq">
-  Kyubey [in progress]</a> by Mibs (<a href="https://codepen.io/mibsbalsante">@mibsbalsante</a>)
-  on <a href="https://codepen.io">CodePen</a>.
-</iframe>
   
   <!--
 **BaiterYamato/BaiterYamato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
