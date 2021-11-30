@@ -22,7 +22,7 @@ hi, i'm Leonardo Lopes aka Baiter, a data analyst who doesn't like to talk, so I
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 - 🔭 I’m currently working on: I'm not currently working... pls hire me! 
 <br />- 😄 Pronouns: he/him
-- 💼 any freelance work? do reach, <a href="mailto:emersonpess011108@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> :)
+<br />- 💼 any freelance work? do reach, <a href="mailto:emersonpess011108@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> :)
 <br />- 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
