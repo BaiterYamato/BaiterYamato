@@ -16,9 +16,7 @@
 
 <br />
 
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+hi, i'm Leonardo Lopes aka Baiter, a data analyst who doesn't like to talk, so I visually express myself through the dashboards what I want to talk. I also have a great passion for research and data is an important part of that, being able to find new information, mine data, organize and transform it into something new is amazing.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
