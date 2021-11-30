@@ -22,7 +22,7 @@ hi, i'm Leonardo Lopes aka Baiter, a data analyst who doesn't like to talk, so I
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 - 🔭 I’m currently working on: I'm not currently working... pls hire me! 
 <br />- 😄 Pronouns: he/him
-- 💼 any freelance work? do reach, [email](mailto:leolopesds1999@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:leolopesds1999@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) :)
 <br />- 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
