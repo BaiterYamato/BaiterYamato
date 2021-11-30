@@ -25,6 +25,9 @@ hi, i'm Leonardo Lopes aka Baiter, a data analyst who doesn't like to talk, so I
 <br />- 💼 any freelance work? do reach, <a href="mailto:leolopesds1999@gmail.com?" title="Github: ">email</a>
 <br />- 💬 ask me about anything, i am happy to help;
 
+<br />
+<br />
+<br />
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
