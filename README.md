@@ -20,10 +20,10 @@ hi, i'm Leonardo Lopes aka Baiter, a data analyst who doesn't like to talk, so I
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-- 🔭 I’m currently working on: I'm not currently working... pls hire me!
-- 😄 Pronouns: he/him
-- 💼 any freelance work? do reach, [email](mailto:leolopesds1999@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 🔭 I’m currently working on: I'm not currently working... pls hire me! 
+<br />- 😄 Pronouns: he/him
+<br />- 💼 any freelance work? do reach, [email](mailto:leolopesds1999@gmail.com) :)
+<br />- 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
 
