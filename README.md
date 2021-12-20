@@ -58,9 +58,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiterYamato&layout=compact&count_private=true&card_width=450&theme=dracula&hide_border=false" />
-  <!--  
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BaiterYamato&theme=dracula&layout=compact" />
-  -->  
+    
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BaiterYamato&theme=dracula&layout=compact&hide=others" />
+ 
   
   <!--
 **BaiterYamato/BaiterYamato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
