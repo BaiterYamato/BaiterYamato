@@ -1,78 +1,148 @@
-### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">👨🏼 / General Kenobi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">👺  
-<a href="">
-  <img align="left" alt="Baiter's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/baiteryamato">
-  <img align="left" alt="Baiter's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/leolopesds1999/">
-  <img align="left" alt="Baiter's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/22mxij6l5sdwg2ooquwvuwyfa">
-  <img align="left" alt="Baiter's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+<div align="center">
 
-![](https://visitor-badge.glitch.me/badge?page_id=BaiterYamato.BaiterYamato)
+# Leonardo Lopes
 
-<br />
+### Data Analyst · Developer · Local AI & Open Source
 
-hi, i'm Leonardo Lopes aka Baiter, a data analyst who doesn't like to talk, so I visually express myself through the dashboards what I want to talk. I also have a great passion for research and data is an important part of that, being able to find new information, mine data, organize and transform it into something new is amazing.
+**Turning data, automation and creative ideas into practical tools.**
 
+<p>
+  <a href="https://www.linkedin.com/in/leolopesds1999/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:leolopesds1999@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/BaiterYamato?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub repositories" />
+  </a>
+</p>
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-- 🔭 I’m currently working on: I'm not currently working... pls hire me! 
-<br />- 😄 Pronouns: he/him
-<br />- 💼 any freelance work? do reach, <a href="mailto:leolopesds1999@gmail.com?" title="Github: ">email</a>
-<br />- 💬 ask me about anything, i am happy to help;
+</div>
 
-<br />
-<br />
-<br />
+## About me
 
-**languages and tools:**  
+I'm a Brazilian professional with a background in **IT Management** and experience in **data analysis, dashboards, public datasets, APIs and automation**.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<!--
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+My work sits at the intersection of data, software, product thinking and creative tooling. I enjoy investigating complex information, organizing it into clear structures and turning it into something useful — whether that means a dashboard, an application, an automated workflow or a tool for creative production.
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
--->
-<br />
-<br />
-<br />
-<br />
-<br />
+I'm currently exploring **local-first artificial intelligence**, open-source models, agent orchestration and privacy-friendly workflows using tools such as **LM Studio, Ollama and MCP**.
 
-<h1 align="center">Github Stats 📈</h1>
+## What I work with
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BaiterYamato&show_icons=true&theme=dracula" alt="abhisheknaiidu" />
+<table>
+<tr>
+<td valign="top" width="50%">
 
+### Data & analytics
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiterYamato&layout=compact&count_private=true&card_width=450&theme=dracula&hide_border=false" />
-    
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BaiterYamato&theme=dracula&layout=compact&hide=Other" />
- 
-  
-  <!--
-**BaiterYamato/BaiterYamato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- R, Python and SQL
+- MySQL and public datasets
+- Power BI, DAX and Power Query
+- Data cleaning, transformation and visualization
+- Dashboards, indicators and exploratory analysis
 
-Here are some ideas to get you started:
+</td>
+<td valign="top" width="50%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Development & automation
+
+- JavaScript, HTML and CSS
+- Flutter and Dart
+- Django and REST APIs
+- Git and GitHub
+- Image, audio and PDF processing workflows
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### Local AI & agents
+
+- Local LLM experimentation
+- LM Studio and Ollama
+- Model Context Protocol — MCP
+- Multi-agent workflows and shared context
+- Privacy-oriented and open-source tooling
+
+</td>
+<td valign="top" width="50%">
+
+### Product & creative technology
+
+- Practical UX and interface prototyping
+- Tools for creators and small businesses
+- Audio, print and digital production
+- Accessible information and clear documentation
+- Systems designed around real workflows
+
+</td>
+</tr>
+</table>
+
+## Selected repositories
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### [Aguara Sampler](https://github.com/BaiterYamato/Aguara-Sampler)
+
+Offline-first sampler for Android built with Flutter. It supports audio recording and import, a 16-pad bank, local persistence, sample editing and offline export.
+
+`Flutter` `Dart` `Android` `Audio` `UX`
+
+</td>
+<td valign="top" width="50%">
+
+### [Miolo Maker](https://github.com/BaiterYamato/miolo-maker)
+
+Browser-based tool for creating printable notebook interiors with configurable ruling, headers, dates, margins, logos and PDF export.
+
+`JavaScript` `HTML` `CSS` `PDF` `Print`
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### [Mapa Eleição Presidencial](https://github.com/BaiterYamato/mapa-eleicao-presidencial)
+
+R project for creating maps and exploring Brazilian presidential election results from 2014 and 2018.
+
+`R` `Data Visualization` `Geospatial Data`
+
+</td>
+<td valign="top" width="50%">
+
+### [CNPJ Full](https://github.com/BaiterYamato/CNPJ-full)
+
+Data utility for processing the Receita Federal public CNPJ dataset and converting large source files into CSV or SQLite formats.
+
+`Python` `Pandas` `SQLite` `Open Data`
+
+</td>
+</tr>
+</table>
+
+## Current interests
+
+- Building useful applications around local and open-source AI
+- Improving shared memory and context management for multiple AI agents
+- Creating privacy-friendly workflows that reduce dependence on cloud platforms
+- Combining data, automation, design and creative production
+- Contributing to software that is understandable, reusable and community-oriented
+
+## GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BaiterYamato&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&rank_icon=github" alt="Leonardo's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiterYamato&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most used languages" />
+</div>
+
+---
+
+<div align="center">
+  <sub>I believe good technology should be useful, understandable, privacy-respecting and open to community improvement.</sub>
+</div>
