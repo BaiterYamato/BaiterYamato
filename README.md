@@ -22,7 +22,7 @@
 <tr>
 <td width="60%" valign="top" align="left">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Man%20Technologist.png" width="32" /> Sobre mim
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="32" /> Sobre mim
 
 Sou brasileiro, com formação em **Gestão em TI**, e trabalho na fronteira entre dados, software e produto. **Não sou de falar muito — deixo os dashboards falarem por mim.** O que me move é a pesquisa: minerar dados públicos, organizar o caos em estrutura e transformar informação em algo que alguém realmente consiga usar.
 
@@ -33,7 +33,7 @@ Também tenho um lado criativo: já construí um sampler de áudio offline e uma
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BaiterYamato&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github&card_width=320" alt="Leonardo's GitHub statistics" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BaiterYamato&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github&card_width=320" alt="Leonardo's GitHub statistics" />
 
 </td>
 </tr>
@@ -163,7 +163,7 @@ Utilitário em Python pra processar o dataset público de CNPJs da Receita Feder
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiterYamato&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BaiterYamato&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used languages" />
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaiterYamato&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 
