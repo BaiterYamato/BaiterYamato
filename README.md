@@ -33,7 +33,7 @@ Também tenho um lado criativo: já construí um sampler de áudio offline e uma
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BaiterYamato&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github&card_width=320" alt="Leonardo's GitHub statistics" />
+<img src="https://github-stats-extended.vercel.app/api?username=BaiterYamato&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github&card_width=320" alt="Leonardo's GitHub statistics" />
 
 </td>
 </tr>
@@ -163,7 +163,7 @@ Utilitário em Python pra processar o dataset público de CNPJs da Receita Feder
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BaiterYamato&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BaiterYamato&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used languages" />
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaiterYamato&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 
