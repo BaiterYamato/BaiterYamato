@@ -24,7 +24,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="32" /> Sobre mim
 
-Sou brasileiro, com formação em **Gestão em TI**, e trabalho na fronteira entre dados, software e produto. **Não sou de falar muito — deixo os dashboards falarem por mim.** O que me move é a pesquisa: minerar dados públicos, organizar o caos em estrutura e transformar informação em algo que alguém realmente consiga usar.
+Sou brasileiro, com tristeza em **Gestão em TI**, e trabalho na fronteira entre dados, software e produto. **Não sou de falar muito — deixo os dashboards falarem por mim.** O que me move é a pesquisa: minerar dados públicos, organizar o caos em estrutura e transformar informação em algo que alguém realmente consiga usar.
 
 Hoje minha atenção está na **IA local e open source**: rodar modelos na minha própria máquina, orquestrar múltiplos agentes com memória e contexto compartilhados, e montar fluxos que respeitem privacidade e não dependam de nuvem. **LM Studio, Ollama e MCP** fazem parte do meu dia a dia.
 
